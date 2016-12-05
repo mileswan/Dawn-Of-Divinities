@@ -47,5 +47,5 @@ Temporary Items
 .apdisk
 
 # Unity generated folders
-/Library/
-/Temp/
+/Client/Library/
+/Client/Temp/

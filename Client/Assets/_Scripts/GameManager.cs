@@ -7,7 +7,7 @@ using System.Security.Cryptography;
  * @author mwan
  * Version: 1.0
  * Date: 2016/12/5
- * Description: 系统主要管理类.
+ * Description: 主要管理类.
  */
 public class GameManager : MonoBehaviour {
 
