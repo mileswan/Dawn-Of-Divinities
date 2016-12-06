@@ -66,10 +66,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\InputNavigator.cs" />
     <Compile Include="Assets\_Scripts\CameraController.cs" />
     <Compile Include="Assets\_Scripts\GameManager.cs" />
     <Compile Include="Assets\_Scripts\HttpClient.cs" />
-    <Compile Include="Assets\_Scripts\MenuItemInstance.cs" />
     <Compile Include="Assets\_Scripts\RW2000Controller.cs" />
     <Compile Include="Assets\_Scripts\RadiusMesh.cs" />
   </ItemGroup>
